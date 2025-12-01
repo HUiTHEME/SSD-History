@@ -1,0 +1,16 @@
+{
+  "unique-app-id": {
+    "display_name": "String",
+    "version": "String",
+    "desc": "String",
+    "labels": "String",
+    "author": "String",
+    "author_url": "String",
+    "bug_report_url": "String",
+    "install_type": "Enum",
+    "size": "String",
+    "history": {
+      "version_number": "String"
+    }
+  }
+}
