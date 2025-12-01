@@ -1,16 +1,15 @@
 {
   "unique-app-id": {
-    "display_name": "String",
-    "version": "String",
-    "desc": "String",
-    "labels": "String",
-    "author": "String",
-    "author_url": "String",
-    "bug_report_url": "String",
-    "install_type": "Enum",
-    "size": "String",
+    "display_name": "SSD History",
+    "version": "0.1",
+    "desc": "SSD运行的历史记录",
+    "author": "疯狂的大叔",
+    "author_url": "https://github.com/HUiTHEME/SSD-History",
+    "bug_report_url": "https://github.com/HUiTHEME/SSD-History/issues",
+    "install_type": "系统空间",
+    "size": "3.2",
     "history": {
-      "version_number": "String"
+      "v0.1": "强哥，我来了",
     }
   }
 }
