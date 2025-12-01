@@ -3,6 +3,7 @@
     "display_name": "SSD History",
     "version": "0.1",
     "desc": "SSD运行的历史记录",
+    "labels": "工具",
     "author": "疯狂的大叔",
     "author_url": "https://github.com/HUiTHEME/SSD-History",
     "bug_report_url": "https://github.com/HUiTHEME/SSD-History/issues",
